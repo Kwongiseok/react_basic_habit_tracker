@@ -1,3 +1,5 @@
+Deploy URL : https://5fe6f786500f906f7dc363b3--giseok-habit-tracker.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
